@@ -72,4 +72,4 @@ Das SpeedStrike Radar wurde entwickelt, um Sportlern, Vereinen und Trainern eine
 
 # SportSpeed Radar
  
-logo.png
+Logo Sportradar 
