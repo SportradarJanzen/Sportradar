@@ -12,11 +12,13 @@ Professionelles Sportradar zur präzisen Messung von Schuss- und Ballgeschwindig
  
 ## Produktbilder
  
-### SPORTRADAR im Einsatz
- 
+<p align="center">
 produktbild-1.jpg
+</p>
  
-produktbild-2.jpg
+<p align="center">
+<img src="d-2.jpg
+</p>
  
 ---
  
@@ -24,7 +26,7 @@ produktbild-2.jpg
  
 Das SPORTRADAR ermöglicht die zuverlässige und präzise Messung von Schuss- und Ballgeschwindigkeiten in Echtzeit.
  
-Ob Vereinsveranstaltung, Trainingseinheit, Turnier oder öffentlicher Wettbewerb, das Gerät liefert professionelle Ergebnisse und sorgt für spannende Wettbewerbe und messbare Leistungen.
+Ob Vereinsveranstaltung, Trainingseinheit, Turnier oder öffentlicher Wettbewerb – das Gerät liefert professionelle Ergebnisse und sorgt für spannende Wettbewerbe und messbare Leistungen.
  
 ---
  
@@ -66,27 +68,13 @@ Ob Vereinsveranstaltung, Trainingseinheit, Turnier oder öffentlicher Wettbewerb
  
 ---
  
-## Für wen eignet sich SPORTRADAR?
- 
-- Sportvereine
-- Fußballschulen
-- Trainer und Coaches
-- Schulen
-- Hochschulen
-- Sportveranstaltungen
-- Freizeit- und Leistungssport
- 
----
- 
 ## Kontakt
  
-📧 E-Mail
- 
-sport_contact@web.de
+📧 sport_contact@web.de
  
 📸 Instagram
  
-https://www.instagram.com/shotspeedliga2026
+[ShotSpeedLiga2026ram.com/shotspeedliga2026
  
 ---
  
