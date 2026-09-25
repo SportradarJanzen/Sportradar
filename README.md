@@ -69,3 +69,7 @@ Das SpeedStrike Radar wurde entwickelt, um Sportlern, Vereinen und Trainern eine
 - [ ] Website erstellen
 - [ ] Shopify-Shop einrichten
 - [ ] Amazon-Listing erstellen
+
+# SportSpeed Radar
+ 
+logo.png
