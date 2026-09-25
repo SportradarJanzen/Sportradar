@@ -1,3 +1,7 @@
+<p align="center">
+<img src="radar.png
+</p>
+ 
 # SPORTRADAR
  
 ## Präzise Geschwindigkeitsmessung seit 1999
@@ -6,29 +10,36 @@ Professionelles Sportradar zur präzisen Messung von Schuss- und Ballgeschwindig
  
 ---
  
+## Produktbilder
+ 
+<p align="center">
+produktbild-1.jpg
+</p>
+ 
+<p align="center">
+<img src="d-2.jpg
+</p>
+ 
+---
+ 
 ## Über SPORTRADAR
  
-Das SPORTRADAR wurde entwickelt, um Geschwindigkeiten zuverlässig, präzise und in Echtzeit zu messen.
+Das SPORTRADAR ermöglicht die zuverlässige und präzise Messung von Schuss- und Ballgeschwindigkeiten in Echtzeit.
  
-Durch die einfache Handhabung und die robuste Bauweise eignet sich das System sowohl für den täglichen Trainingsbetrieb als auch für Vereinsveranstaltungen, Wettbewerbe und öffentliche Events.
+Ob Vereinsveranstaltung, Trainingseinheit, Turnier oder öffentlicher Wettbewerb – das Gerät liefert professionelle Ergebnisse und sorgt für spannende Wettbewerbe und messbare Leistungen.
  
 ---
  
 ## Einsatzbereiche
  
-⚽ Fußball
- 
-🤾 Handball
- 
-🏒 Hockey
- 
-🎾 Tennis
- 
-⚾ Baseball
- 
-🏆 Vereinsveranstaltungen
- 
-🎯 Wettbewerbe
+- ⚽ Fußball
+- 🤾 Handball
+- 🏒 Hockey
+- 🎾 Tennis
+- ⚾ Baseball
+- 🏆 Sportveranstaltungen
+- 🎯 Wettbewerbe
+- 🏫 Schulen und Vereine
  
 ---
  
@@ -42,7 +53,7 @@ Durch die einfache Handhabung und die robuste Bauweise eignet sich das System so
  
 ✅ Für Innen- und Außenbereiche geeignet
  
-✅ Ideal für Vereine, Trainer und Events
+✅ Ideal für Vereine und Veranstaltungen
  
 ✅ Bewährte Technik seit 1999
  
@@ -50,16 +61,14 @@ Durch die einfache Handhabung und die robuste Bauweise eignet sich das System so
  
 ---
  
-## Anwendungsgebiete
- 
-Das SPORTRADAR eignet sich ideal für:
+## Für wen eignet sich SPORTRADAR?
  
 - Sportvereine
 - Fußballschulen
 - Trainer und Coaches
-- Schulen und Hochschulen
-- Sportveranstaltungen
-- Sponsoren- und Promotionevents
+- Schulen
+- Sportevents
+- Sponsorenveranstaltungen
 - Freizeit- und Leistungssport
  
 ---
@@ -70,16 +79,14 @@ Das SPORTRADAR eignet sich ideal für:
  
 sport_contact@web.de
  
-📸 Instagram
+📷 Instagram
  
-@shotspeedliga2026
- 
----
- 
-## Interesse am SPORTRADAR?
- 
-Für Produktinformationen, Händleranfragen oder Vorführungen kontaktieren Sie uns gerne per E-Mail oder über Instagram.
+https://www.instagram.com/shotspeedliga2026
  
 ---
+ 
+## Interesse?
+ 
+Für Produktinformationen, Vorführungen oder Vertriebspartner-Anfragen kontaktieren Sie uns gerne.
  
 **SPORTRADAR – Präzise Geschwindigkeitsmessung seit 1999**
