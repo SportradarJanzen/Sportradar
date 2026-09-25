@@ -46,3 +46,26 @@ Weitere Informationen folgen.
 - [ ] Website erstellen
 - [ ] Shopify-Shop einrichten
 - [ ] Amazon-Listing erstellen
+
+## Vision
+ 
+Das SpeedStrike Radar wurde entwickelt, um Sportlern, Vereinen und Trainern eine professionelle Möglichkeit zur Messung von Schuss- und Ballgeschwindigkeiten zu bieten. Ziel ist es, Leistungsdaten einfach, präzise und in Echtzeit bereitzustellen.
+ 
+## Zielgruppe
+ 
+- Fußballvereine
+- Handballvereine
+- Hockeyvereine
+- Tennistrainer
+- Leistungszentren
+- Schulen und Akademien
+ 
+## Entwicklungsstatus
+ 
+- [x] GitHub-Projekt erstellt
+- [ ] Logo fertigstellen
+- [ ] Produktdesign entwickeln
+- [ ] Prototyp testen
+- [ ] Website erstellen
+- [ ] Shopify-Shop einrichten
+- [ ] Amazon-Listing erstellen
