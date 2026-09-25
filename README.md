@@ -28,3 +28,21 @@ Dieses Repository dient zur Dokumentation, Weiterentwicklung und Präsentation d
  
 Weitere Informationen folgen.
 
+
+## Technische Daten
+ 
+- Messbereich: bis 300 km/h
+- Anzeige: Digitaldisplay
+- Stromversorgung: Akku
+- Einsatz im Innen- und Außenbereich
+- Einfache Bedienung
+ 
+## Entwicklungsstatus
+ 
+- [x] GitHub-Projekt erstellt
+- [ ] Logo erstellen
+- [ ] Produktbilder erstellen
+- [ ] Prototyp testen
+- [ ] Website erstellen
+- [ ] Shopify-Shop einrichten
+- [ ] Amazon-Listing erstellen
