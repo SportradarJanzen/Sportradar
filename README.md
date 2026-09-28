@@ -39,11 +39,11 @@
  
 ## Weitere Informationen
  
-📧 E-Mail: sport_contact@web.de
- 
-📸 Instagram: @shotspeedliga2026
- 
-🌐 Verkaufsseite: HIER SPÄTER DEN LINK EINFÜGEN
+>📧 E-Mail: sport_contact@web.de
+>
+>📸 Instagram: @shotspeedliga2026
+>
+>🌐 Verkaufsseite: HIER SPÄTER DEN LINK EINFÜGEN
  
 ---
  
