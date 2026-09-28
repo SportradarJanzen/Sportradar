@@ -10,7 +10,7 @@
  
 ### Produktbild 1
  
-![Produktbild 3](Produktbild 3.jpeg)
+![Produktbild1](produktbild-1.jpg)
 
  ---
  
