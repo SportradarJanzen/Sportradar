@@ -10,10 +10,10 @@
  
 ### Produktbild 1
  
-![Produktbild 1](produktbild1.jpg)
+![Produktbild 1](produktbild-1.jpg)
  
 ### Produktbild 2
  
-![Produktbild2](porduktbild-2.jpg)
+![Produktbild2](produktbild-2.jpg)
 
 ``
