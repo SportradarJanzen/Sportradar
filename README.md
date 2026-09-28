@@ -6,9 +6,7 @@
  
  Professionelles Sportradar zur präzisen Messung von Schuss- und Ballgeschwindigkeiten für Vereine, Trainer, Schulen und Sportveranstaltungen.
 
-## Produktbilder
- 
-### Produktbild 1
+
  
 ![Produktbild1](produktbild-1.jpg)
 
