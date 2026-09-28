@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logor.png
+logo-sportradar.png
 </p>
  
 # SPORTRADAR
@@ -12,13 +12,9 @@ Professionelles Sportradar zur präzisen Messung von Schuss- und Ballgeschwindig
  
 ## Produktbilder
  
-<p align="center">
 produktbild-1.jpg
-</p>
  
-<p align="center">
-<img src="d-2.jpg
-</p>
+produktbild-2.jpg
  
 ---
  
@@ -72,9 +68,9 @@ Ob Vereinsveranstaltung, Trainingseinheit, Turnier oder öffentlicher Wettbewerb
  
 📧 sport_contact@web.de
  
-📸 Instagram
+📷 Instagram
  
-[ShotSpeedLiga2026ram.com/shotspeedliga2026
+[ShotSpeedLiga2026](https://www.eedliga2026
  
 ---
  
