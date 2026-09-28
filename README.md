@@ -1,6 +1,6 @@
 # SPORTRADAR
  
-logo-sportradar.png
+![Logo](./logo-sportradar.png
  
 ## Präzise Geschwindigkeitsmessung seit 1999
  
@@ -12,7 +12,7 @@ Professionelles Sportradar zur präzisen Messung von Schuss- und Ballgeschwindig
  
 ### SPORTRADAR im Einsatz
  
-![Produktbild 1](produktktbild-2.jpg
+![Produktbild 1](./produktktbild-1.jpg
  
 ---
  
