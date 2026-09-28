@@ -1,6 +1,6 @@
 <div align="center">
  
-logo-sportradar.png
+![Logo](logo-sportradar.png)
  
 # SPORTRADAR
  
