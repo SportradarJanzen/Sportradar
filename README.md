@@ -2,8 +2,6 @@
  
 logo-sportradar.png
  
-## Produktbild 1
+## Präzise Geschwindigkeitsmessung seit 1999
  
-![Produktbild 1](produktoduktbild 2
- 
-![Produktbild jpg
+Professionelles Sportradar zur präzisen Messung von Schuss- und Ballgeschwindigkeiten für Vereine, Trainer, Schulen und Sportveranstaltungen.
