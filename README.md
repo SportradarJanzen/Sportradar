@@ -1,6 +1,6 @@
 # SPORTRADAR
  
-logo-sportradar.png
+![Logo](logo-sportradar.png)
  
 ## Präzise Geschwindigkeitsmessung seit 1999
  
