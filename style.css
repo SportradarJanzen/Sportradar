@@ -1,112 +1,56 @@
-body{
-background:red !important;
-}
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-}
+<div class="container">
  
-body{
-background:#090909;
-}
+<img src="logo-sportradar.png" alt="SPORTRADAR" class="ass="subtitle">
+Präzise Geschwindigkeitsmessung seit 1999
+</p>
  
-.container{
-max-width:850px;
-margin:40px auto;
-padding:40px;
+<img src="produktbild-1.jpg"
+alt="SPORTRADAR"
+class="hero">
  
-background:#151515;
+<div class="text">
  
-border-radius:25px;
+Seit über 25 Jahren steht SPORTRADAR für
+im Sport.
  
-box-shadow:
-0 0 30px rgba(255,0,0,.15);
-}
-`
+<br><br>
  
-.logo{
-width:220px;
-margin-bottom:25px;
-}
+Das System wird von Vereinen, Schulen,
+Trainern und Veranstaltern eingesetzt und
+ermöglicht die Messung von Schuss- und
+Ballgeschwindigkeiten in Echtzeit.
  
-.hero{
-width:100%;
-max-width:700px;
+</div>
  
-border-radius:25px;
+<div class="einsatz">
  
-margin:40px auto;
+⚽ Fußball<br>
+🤾 Handball<br>
+🏒 Eishockey<br>
+🎾 Tennis<br>
+⚾ Baseball<br>
+🏆 Sportveranstaltungen
  
-box-shadow:
-0 0 40px rgba(255,0,0,.3);
-}
+</div>
  
-h1{
-font-size:56px;
-color:white;
-letter-spacing:4px;
-}
+<a class="button"
+href="https://www.instagram.com/shotspeedliga2026"
+targetutton"
+href="mailto:sport_contact@web.de">
+📧 Kontakt
+</a>
  
-.subtitle{
-color:#cccccc;
-font-size:20px;
-margin-bottom:30px;
-}
+<a class="button"
+href </a>
  
-.text{
-color:#d6d6d6;
-line-height:1.8;
-margin-bottom:40px;
-}
+<div class="footer">
  
-.einsatz{
-background:#181818;
-border:1px solid #2e2e2e;
-border-radius:18px;
-padding:20px;
-margin:30px auto;
-max-width:500px;
-line-height:2;
-}
+<strong>SPORTRADAR • Seit 1999</strong>
  
-.button{
-background:
-linear-gradient(90deg,
-#7a0000,
-#b80000,
-#ff0000);
+<br>
  
-border-radius:18px;
+Präzision. Geschwindigkeit. Leidenschaft.
  
-padding:20px;
+</div>
  
-font-size:20px;
-}
- 
-text-decoration:none;
-color:white;
- 
-background:linear-gradient(
-90deg,
-#7d0000,
-#c40000,
-#ff0000
-);
- 
-border-radius:15px;
-font-weight:bold;
-font-size:18px;
-}
- 
-.button:hover{
-transform:translateY(-2px);
-}
- 
-.footer{
-margin-top:50px;
-padding-top:25px;
-border-top:1px solid #2c2c2c;
-color:#8c8c8c;
-line-height:1.8;
-}
+</div>
