@@ -35,23 +35,11 @@ margin:0 auto 25px auto;
 }
 
 h1{
-color:#ffffff !important;
- 
+color:white;
 text-align:center;
- 
 font-size:56px;
- 
-font-weight:700;
- 
-letter-spacing:4px;
- 
+letter-spacing:6px;
 margin:15px 0;
- 
-text-transform:uppercase;
- 
-text-shadow:
-0 0 10px rgba(255,255,255,.15),
-0 0 20px rgba(255,0,0,.20);
 }
 ``
 
