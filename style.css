@@ -33,16 +33,21 @@ box-shadow:
     margin-bottom: 20px;
 }
 
-h1 {
-    font-size: 42px;
-    margin: 10px 0;
-    letter-spacing: 3px;
+h1{
+font-size:50px;
+letter-spacing:4px;
+margin-bottom:10px;
+ 
+color:#ffffff;
+ 
+text-shadow:
+0 0 10px rgba(255,255,255,.2),
+0 0 20px rgba(255,0,0,.3);
 }
+``
 
-.subtitle {
-    color: #9daabd;
-    font-size: 18px;
-    margin-bottom: 30px;
+.subtitle{
+color:#d0d0d0;
 }
 
 .produkt {
@@ -52,11 +57,8 @@ h1 {
     margin-bottom: 30px;
 }
 
-.text {
-    text-align: left;
-    line-height: 1.7;
-    color: #d5dce5;
-    margin-bottom: 25px;
+.text{
+color:#e0e0e0;
 }
 
 .einsatz {
