@@ -34,15 +34,20 @@ box-shadow:
 }
 
 h1{
-font-size:50px;
+color:#ffffff !important;
+ 
+font-size:56px;
+ 
 letter-spacing:4px;
+ 
+margin-top:20px;
 margin-bottom:10px;
  
-color:#ffffff;
+text-transform:uppercase;
  
 text-shadow:
-0 0 10px rgba(255,255,255,.2),
-0 0 20px rgba(255,0,0,.3);
+0 0 10px rgba(255,255,255,.15),
+0 0 20px rgba(255,0,0,.25);
 }
 ``
 
