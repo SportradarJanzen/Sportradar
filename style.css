@@ -103,10 +103,12 @@ width:280px;
  
 margin:15px auto;
  
+padding:18px;
+ 
 background:linear-gradient(
 90deg,
-#7d0000,
-#b00000,
+#7a0000,
+#b50000,
 #ff0000
 );
  
@@ -114,13 +116,13 @@ color:white;
  
 text-decoration:none;
  
-font-weight:bold;
+text-align:center;
  
-padding:17px;
+font-weight:bold;
  
 border-radius:14px;
  
-transition:0.2s;
+transition:.3s;
 }
  
 .button:hover{
@@ -129,6 +131,7 @@ transform:translateY(-2px);
 box-shadow:
 0 10px 20px rgba(255,0,0,.35);
 }
+``
 
 .footer{
     margin-top: 40px;
