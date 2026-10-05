@@ -97,30 +97,31 @@ color:#e0e0e0;
 }
 
 .button{
-display:block;
+display:flex;
+justify-content:space-between;
+align-items:center;
  
-width:280px;
+width:100%;
+max-width:600px;
  
 margin:15px auto;
  
-padding:18px;
- 
-background:linear-gradient(
-90deg,
-#7a0000,
-#b50000,
-#ff0000
-);
- 
-color:white;
+padding:22px;
  
 text-decoration:none;
  
-text-align:center;
+color:white;
  
+background:linear-gradient(
+90deg,
+#071d38,
+#0c315e
+);
+ 
+border-radius:22px;
+ 
+font-size:22px;
 font-weight:bold;
- 
-border-radius:14px;
  
 transition:.3s;
 }
@@ -129,9 +130,8 @@ transition:.3s;
 transform:translateY(-2px);
  
 box-shadow:
-0 10px 20px rgba(255,0,0,.35);
+0 10px 25px rgba(255,0,0,.25);
 }
-``
 
 .footer{
     margin-top: 40px;
